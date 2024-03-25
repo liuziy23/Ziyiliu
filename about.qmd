@@ -7,3 +7,5 @@ About this site
 ```{r}
 1 + 1
 ```
+
+[My CV](resume1.pdf)
